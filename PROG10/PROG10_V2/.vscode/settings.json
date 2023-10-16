@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "PROG10\\lib\\oracle-jdbc11.jar"
+    ]
+}
